@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "BloodBagBrainBomb",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T10:22:50.290174Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BloodBagBrainBomb",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_BloodBagBrainBomb_ピーナッツくん.txt"
+    }
+  ]
+}
